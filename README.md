@@ -230,3 +230,7 @@ real person. It is meant to show clean agent design, an approval-gated write
 model, and an offline-first architecture — not to be a finished product.
 
 Licensed MIT. See [LICENSE](LICENSE).
+
+## Origin
+
+This is a **clean-room, generic version** of tooling I build and use locally for real operational and process work. The internal originals stay private; this public version is sanitized — synthetic data only, no proprietary logic — and generalized so anyone (including me) can reuse it via [Claude Code](https://claude.com/claude-code). Built and maintained AI-assisted.
