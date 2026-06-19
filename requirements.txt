@@ -1,0 +1,8 @@
+# Core (required)
+pydantic>=2.6
+rich>=13.7
+pyyaml>=6.0
+
+# Optional: real LLM path. Not needed for mock mode, tests, or the demo.
+# Install with: pip install anthropic
+anthropic>=0.40 ; extra == "llm"
